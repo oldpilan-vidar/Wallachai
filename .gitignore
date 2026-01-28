@@ -3,6 +3,7 @@
 Thumbs.db
 
 # Backup / temp files
+*.save
 *.log
 *.tmp
 *.bak
