@@ -1,0 +1,10 @@
+heritage_vlach = {
+    type = heritage
+    
+    martial_custom = martial_custom_male_only
+    
+    can_adopt_language_with_heritage = { 
+        heritage_byzantine 
+        heritage_south_slavic 
+    }
+}
