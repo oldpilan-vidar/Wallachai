@@ -1,4 +1,4 @@
-﻿d_homolje = {
+d_homolje = {
   capital = c_homolje
 
   c_homolje = {
