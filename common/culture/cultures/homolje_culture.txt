@@ -1,0 +1,25 @@
+﻿homolje = {
+    color = { 0.3 0.7 0.2 } # Zelena boja
+    ethos = ethos_spiritual
+    heritage = heritage_south_slavic
+    language = language_south_slavic
+    martial_custom = martial_custom_male_only
+    head_determination = head_determination_domain
+    
+    traditions = {
+        tradition_mountain_homes
+        tradition_forest_fighters
+        tradition_pastoralists
+    }
+    
+    name_list = name_list_serbian
+    
+    coa_gfx = { south_slavic_group_coa_gfx western_coa_gfx }
+    building_gfx = { mediterranean_building_gfx }
+    clothing_gfx = { byzantine_clothing_gfx }
+    unit_gfx = { eastern_unit_gfx }
+
+    ethnicities = {
+        100 = slavic
+    }
+}

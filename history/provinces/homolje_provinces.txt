@@ -1,0 +1,6 @@
+# Homolje province overrides
+3665 = { # Kucevo
+    culture = homolje
+    religion = orthodox
+    holding = castle_holding
+}
