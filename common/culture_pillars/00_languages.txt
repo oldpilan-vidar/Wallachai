@@ -1,0 +1,14 @@
+language_wallachian = {
+    type = language
+    
+    writing_system = writing_system_cyrillic
+    
+    # Wallachian/Vlach language sounds
+    speech_sounds = {
+        a e i o u
+        p b t d k g
+        f v s z sh zh
+        m n l r
+        ts ch j
+    }
+}
