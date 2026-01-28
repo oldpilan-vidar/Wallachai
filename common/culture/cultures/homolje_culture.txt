@@ -5,6 +5,7 @@
     heritage = heritage_vlach
     language = language_wallachian
     martial_custom = martial_custom_male_only
+    head_determination = head_determination_domain
 
     name_list = name_list_south_slavic
     building_gfx = south_slavic_building_gfx
@@ -12,7 +13,7 @@
     unit_gfx = south_slavic_unit_gfx
     coa_gfx = south_slavic_coa_gfx
 
-    ethnicities = { 50: south_slavic 50: byzantine }
+    ethnicities = { 50 = south_slavic 50 = byzantine }
 
     traditions = {
         tradition_mountain_homes
