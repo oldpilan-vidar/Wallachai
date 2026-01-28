@@ -1,0 +1,18 @@
+ wallachian_pagan = {
+    family = pagan
+    religion = pagan
+
+    doctrine = doctrine_unreformed
+    head_of_faith = no_head
+    icon = pagan
+
+    virtues = { brave diligent }
+    sins = { craven lazy }
+
+    clergy_gender = both
+    clergy_marriage = allowed
+    clergy_succession = temporal
+
+    holy_site = none
+}
+
