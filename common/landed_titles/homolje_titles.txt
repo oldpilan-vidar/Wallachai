@@ -1,1 +1,11 @@
-# Intentionally empty: avoiding duplicate vanilla title definitions.
+c_homolje = {
+    color = { 120 110 90 }
+
+    b_zajecar = { province = 3668 }
+    b_kucevo  = { province = 3665 }
+    b_ravno   = { province = 3666 }
+    b_petrus  = { province = 3669 }
+
+    capital = b_zajecar
+}
+
