@@ -1,11 +1,17 @@
-c_homolje = {
-    color = { 120 110 90 }
+d_homolje = {
+    color = { 90 80 70 }
+    capital = c_homolje
 
-    b_zajecar = { province = 3668 }
-    b_kucevo  = { province = 3665 }
-    b_ravno   = { province = 3666 }
-    b_petrus  = { province = 3669 }
+    c_homolje = {
+        color = { 120 110 90 }
 
-    capital = b_zajecar
+        b_zajecar = { province = 3668 }
+        b_kucevo  = { province = 3665 }
+        b_ravno   = { province = 3666 }
+        b_kladovo = { province = 3667 }
+        b_branicevo = { province = 3664 }
+        b_petrus  = { province = 3669 }
+
+        capital = b_zajecar
+    }
 }
-

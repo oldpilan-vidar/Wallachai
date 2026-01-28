@@ -1,9 +1,8 @@
 ﻿9990001 = {
-    name = "Vidar"
-    dynasty = 999001
-    culture = homoljci
-    faith = wallachian_pagan
-    female = no
-    birth = 840.1.1
+  name = "Vidar"
+  dynasty = 999001
+  culture = homoljci
+  faith = wallachian_pagan
+  female = no
+  birth = 840.1.1
 }
-
