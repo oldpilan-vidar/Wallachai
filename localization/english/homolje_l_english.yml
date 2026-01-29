@@ -1,6 +1,13 @@
 ﻿l_english:
  c_homolje: "Homolje"
  d_homolje: "Homolje"
+ 
+ b_zajecar: "Zajecar"
+ b_branicevo: "Branicevo"
+ b_kucevo: "Kucevo"
+ b_ravno: "Ravno"
+ b_kladovo: "Kladovo"
+ b_petrus: "Petrus"
 
  homoljci: "Homoljci"
  homoljci_collective_noun: "Homoljci"
