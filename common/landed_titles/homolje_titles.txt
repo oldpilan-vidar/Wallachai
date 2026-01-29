@@ -1,1 +1,12 @@
-# Intentionally empty: avoiding duplicate vanilla title definitions.
+d_homolje = {
+  capital = c_homolje
+
+  c_homolje = {
+    b_zajecar   = { province = 3668 }
+    b_branicevo = { province = 3664 }
+    b_kucevo    = { province = 3665 }
+    b_ravno     = { province = 3666 }
+    b_kladovo   = { province = 3667 }
+    b_petrus    = { province = 3669 }
+  }
+}

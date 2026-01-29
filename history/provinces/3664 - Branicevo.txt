@@ -1,4 +1,5 @@
+province = 3664
 culture = homoljci
-faith = orthodox
+faith = wallachian_pagan
 holding = tribal_holding
 867.1.1 = { culture = homoljci }
