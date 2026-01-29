@@ -1,4 +1,0 @@
-﻿999001 = {
-  name = "Homoljski"
-  culture = homoljci
-}
