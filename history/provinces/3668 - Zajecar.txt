@@ -1,6 +1,5 @@
-# 3668 - Zajecar
-867.1.1 = {
-  culture = homoljci
-  faith = wallachian_pagan
-  holding = tribal_holding
-}
+province = 3668
+culture = homoljci
+faith = wallachian_pagan
+holding = tribal_holding
+867.1.1 = { culture = homoljci }
